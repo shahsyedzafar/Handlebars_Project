@@ -1,0 +1,23 @@
+{
+  "name": "handlebars-app",
+  "authors": [
+    "shahsyedzafar <sshah31@asu.edu>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "handlebars": "^4.0.5"
+  },
+  "resolutions": {
+    "handlebars": "v3.0.3"
+  }
+}
